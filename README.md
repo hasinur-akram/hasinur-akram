@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasinur</h1>
-<h3 align="center">A passionate Data Scientist from python based machine learning</h3>
+<h3 align="center">A passionate App Developer(Flutter) And a machine learning Engineer(python) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasinur-akram&label=Profile%20views&color=0e75b6&style=flat" alt="hasinur-akram" /> </p>
 
@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/hasinurakram" target="blank"><img src="https://img.shields.io/twitter/follow/hasinurakram?logo=twitter&style=for-the-badge" alt="hasinurakram" /></a> </p>
 
-- 🔭 I’m currently working on [Data science & Machine learning](https://hrventureai.com/)
+- 🔭 I’m currently working on [App Developer(Flutter) & machine learning(python)](https://hrventureai.com/)
 
-- 🌱 I’m currently learning **Deep learning & Artificial Intilligence**
+- 🌱 I’m currently learning **App Developer(Flutter) & machine learning(python)**
 
-- 👯 I’m looking to collaborate on [Data science & Machine learning](https://hrventureai.com/)
+- 👯 I’m looking to collaborate on [App Developer & Machine learning](https://hrventureai.com/)
 
-- 🤝 I’m looking for help with [Deep learning](https://hrventureai.com/)
+- 🤝 I’m looking for help with [Flutter AI](https://hrventureai.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/hasinur-akram](https://github.com/hasinur-akram)
 
 - 📝 I regularly write articles on [https://www.facebook.com/hasinur.rahmanakram/](https://www.facebook.com/hasinur.rahmanakram/)
 
-- 💬 Ask me about **Python, Machine learning, Data science**
+- 💬 Ask me about **Python, Machine learning, Appdevelopment**
 
 - 📫 How to reach me **hasinurakram@gmail.com**
 
